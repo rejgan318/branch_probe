@@ -44,6 +44,6 @@ After merge2
 ## Branch2 - pull request через github
 
 ### step3-1
-### step2-2
+### step3-2
 
 ## Возвращаюсь в master после pull request через github
