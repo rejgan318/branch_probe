@@ -32,4 +32,8 @@ git checkout master
 git merge feature/step
 git push origin master
 ```
-В результате ветка feature/step1 пропала, полностью перетекла в master
+В результате ветка feature/step1 пропала, полностью перетекла в master.
+Хочется сохранить красивое ветвление, но его нет
+## Branch - вторая попытка
+
+### step2-1
