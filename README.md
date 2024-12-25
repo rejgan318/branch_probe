@@ -24,3 +24,12 @@ M	README.md
 
 ### Коммит feature step1-2
 ...
+
+### Попытался сделать merge
+
+```
+git checkout master
+git merge feature/step
+git push origin master
+```
+В результате ветка feature/step1 пропала, полностью перетекла в master
