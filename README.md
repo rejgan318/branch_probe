@@ -19,4 +19,6 @@ checkout -b feature/step1 master^0 --
 M	README.md
 ```
 
+### Коммит feature step1-1
+...
 
