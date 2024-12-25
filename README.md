@@ -42,5 +42,6 @@ git push origin master
 After merge2
 
 ## Branch2 - pull request через github
+
 ### step3-1
 ### step2-2
