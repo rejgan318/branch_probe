@@ -39,4 +39,7 @@ git push origin master
 ### step2-1
 ### step2-2
 
-After nerge2
+After merge2
+
+## Branch2 - pull request через github
+### step3-1
