@@ -47,3 +47,7 @@ After merge2
 ### step3-2
 
 ## Возвращаюсь в master после pull request через github
+
+## Эксперимент 4, step4
+
+Первый рабочий коммит в новой ветке step4
