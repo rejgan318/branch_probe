@@ -53,3 +53,7 @@ After merge2
 ### step5-1
 
 ### step5-2
+
+## STEP6 Должно получиться!
+
+### step6-1
