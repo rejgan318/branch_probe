@@ -57,3 +57,5 @@ After merge2
 ## STEP6 Должно получиться!
 
 ### step6-1
+
+### step6-2
